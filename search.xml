@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[notepad++主题设置]]></title>
+    <url>%2F2017%2F12%2F04%2Fnotepad-%E4%B8%BB%E9%A2%98%E8%AE%BE%E7%BD%AE%2F</url>
+    <content type="text"><![CDATA[主题名称：Obsidian字体字号：Courier New 10设置方法：设置---语言格式设置---选择主题，同时勾选“使用全局字体”“使用全局字体大小 补充一点：修改两处地方，一是图标，在“设置---首选项---常用”里设置为小图标，二是把标签栏改到了左侧，具体设置方法是，在“标签栏”的选项里勾选“垂直显示”，并去掉“变暗”选项即可（可以顺便勾选一下“双击关闭标签哦，用起来挺方便的”]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>notpad++</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[blog待完善]]></title>
     <url>%2F2017%2F12%2F03%2Fblog%E5%BE%85%E5%AE%8C%E5%96%84%2F</url>
     <content type="text"><![CDATA[hexo待完善内容1.使用https2.评论系统 1已完成，目前使用第三方服务有言，存在缺点：qq或微博登录有言授权过慢，待优化或更换怕评论系统 3.留言界面 1同上 4.页面鼠标样式]]></content>
